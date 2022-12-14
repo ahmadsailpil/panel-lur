@@ -363,7 +363,7 @@ letsencrypt() {
       CONFIGURE_LETSENCRYPT=false
     fi
   else
-    success "The process of obtaining a Let's Encrypt certificate succeeded!"
+    success "berhasil tod lanjut ke wings!"
   fi
 }
 
